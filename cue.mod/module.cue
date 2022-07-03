@@ -1,1 +1,1 @@
-module: "github.com/dagger/todoapp"
+module: ""
